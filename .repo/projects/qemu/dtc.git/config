@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "qemu"]
+	url = https://github.com/qemu/dtc.git
+	projectname = dtc
+	fetch = +refs/heads/*:refs/remotes/qemu/*
